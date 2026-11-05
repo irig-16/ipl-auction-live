@@ -2,9 +2,11 @@
 
 A live cricket auction party game for 2 to 4 franchises, one phone each. Everyone gets the same purse, bids in real auction steps under an overseas limit, then plays a full league season with a final.
 
+**Play now:** https://cric-auction.netlify.app/
+
 ## Play
 
-Open `index.html` in a browser, or host it with GitHub Pages or Netlify.
+Play at https://cric-auction.netlify.app/, open `index.html` in a browser, or host it yourself with GitHub Pages or Netlify.
 
 1. One player taps **Host an auction** and shares the 4-letter code, invite link or QR.
 2. Friends open the same page on their phones and join with the code.
